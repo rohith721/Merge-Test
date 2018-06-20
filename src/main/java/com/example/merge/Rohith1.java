@@ -1,14 +1,14 @@
 package com.example.merge;
 
 public class Rohith1 {
-    private String n;
+    private String k;
 
 
     public String getN() {
-        return n;
+        return k;
     }
 
     public void setN(String n) {
-        this.n = n;
+        this.k = n;
     }
 }
